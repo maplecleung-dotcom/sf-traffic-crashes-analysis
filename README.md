@@ -6,7 +6,7 @@ This project uses San Francisco’s open data on traffic crashes resulting in in
 
 ## Dataset Source 
 
-Dataset source: [DataSF Traffic Crashes Resulting in Injury](https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx/about_data)
+Dataset source: [DataSF Traffic Crashes Resulting in Injury](https://data.sfgov.org/Public-Safety/Traffic-Crashes-Resulting-in-Injury/ubvf-ztfx/about_data) Dataset downloaded on July 5, 2026.
 
 The analysis makes use of the Traffic Crashes Resulting in Injury dataset provided through the San Francisco Open Data Portal (DataSF). It is important to mention that the dataset was not developed by the DataSF itself; rather, it consists of traffic collision data obtained from multiple sources – government agencies. Injury crash data for 2018 and later years is provided by the San Francisco Police Department's (SFPD) Interim Collision System, injury crash data for 2013-2017 is provided by Crossroads Software Traffic Collision Database, and injury crash data prior to 2013 is provided by the Statewide Integrated Transportation Record System (SWITRS) from the California Highway Patrol (CHP). Fatal crash data is checked through the San Francisco Office of the Chief Medical Examiner according to the San Francisco Vision Zero Fatality Protocol managed by the SFDPH, SFPD, and SFMTA.
 
@@ -46,7 +46,7 @@ For the final visualizations, I focused on two questions:
 
 ![Top neighborhoods with the most injury crashes](neighborhood-chart.png)
 
-**Figure 1.** The Mission had the highest number of reported injury traffic crashes in the dataset, followed by South of Market, the Financial District, Tenderloin, and Bayview Hunters Point. These areas may have higher crash totals because they include busy streets, commercial activity, and heavy vehicle, bicycle, and pedestrian traffic.
+**Figure 1.** The Mission had the highest number of reported injury traffic crashes in the dataset, followed by South of Market, the Financial District, Tenderloin, and Bayview Hunters Point. These areas may have higher crash totals because they include busy streets, commercial activity, and heavy vehicle, bicycle, and pedestrian traffic. A horizontal bar chart was selected because it makes it easier to compare neighborhood totals with long category names.
 
 **Source:** DataSF Open Data Portal, *Traffic Crashes Resulting in Injury* dataset. Original data compiled from the San Francisco Police Department (SFPD), California Highway Patrol (CHP), San Francisco Department of Public Health (SFDPH), and TransBASE.
 
@@ -54,7 +54,7 @@ For the final visualizations, I focused on two questions:
 
 ![Injury crashes by time of day](time-of-day-chart.png)
 
-**Figure 2.** Injury traffic crashes were most common between 2:01 p.m. and 6:00 p.m., followed by the evening period from 6:01 p.m. to 10:00 p.m. Overnight hours had the fewest reported injury crashes.
+**Figure 2.** Injury traffic crashes were most common between 2:01 p.m. and 6:00 p.m., followed by the evening period from 6:01 p.m. to 10:00 p.m. Overnight hours had the fewest reported injury crashes. A column chart was selected because it clearly illustrates changes in crash frequency across ordered time periods.
 
 **Source:** DataSF Open Data Portal, *Traffic Crashes Resulting in Injury* dataset. Original data compiled from the San Francisco Police Department (SFPD), California Highway Patrol (CHP), San Francisco Department of Public Health (SFDPH), and TransBASE.
 
