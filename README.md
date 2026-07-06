@@ -43,13 +43,13 @@ For the final visualizations, I focused on two questions:
 2. What time of day had the most injury traffic crashes?
 
 ## Finding 1: Injury crashes are concentrated in a small number of neighborhoods
-![Top 10 San Francisco Neighborhoods with the most Injury Traffic Crashes](Top 10 San Francisco Neighborhoods by Injury Traffic Crashes.png)
+![Top neighborhoods with the most injury crashes](neighborhood-chart.png)
 
 **Figure 1.** The Mission had the highest number of reported injury traffic crashes in the dataset, followed by South of Market, the Financial District, Tenderloin, and Bayview Hunters Point. These areas may have higher crash totals because they include busy streets, commercial activity, and heavy vehicle, bicycle, and pedestrian traffic.
 
 ## Finding 2: Injury crashes peak in the afternoon
 
-![Injury Traffic Crashes by Time of Day](Injury Traffic Crashes by Time of Day.png)
+![Injury crashes by time of day](time-of-day-chart.png)
 
 **Figure 2.** Injury traffic crashes were most common between 2:01 p.m. and 6:00 p.m., followed by the evening period from 6:01 p.m. to 10:00 p.m. Overnight hours had the fewest reported injury crashes.
 
