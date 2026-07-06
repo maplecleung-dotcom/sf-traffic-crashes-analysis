@@ -48,11 +48,15 @@ For the final visualizations, I focused on two questions:
 
 **Figure 1.** The Mission had the highest number of reported injury traffic crashes in the dataset, followed by South of Market, the Financial District, Tenderloin, and Bayview Hunters Point. These areas may have higher crash totals because they include busy streets, commercial activity, and heavy vehicle, bicycle, and pedestrian traffic.
 
+**Source:** DataSF Open Data Portal, *Traffic Crashes Resulting in Injury* dataset. Original data compiled from the San Francisco Police Department (SFPD), California Highway Patrol (CHP), San Francisco Department of Public Health (SFDPH), and TransBASE.
+
 ## Finding 2: Injury crashes peak in the afternoon
 
 ![Injury crashes by time of day](time-of-day-chart.png)
 
 **Figure 2.** Injury traffic crashes were most common between 2:01 p.m. and 6:00 p.m., followed by the evening period from 6:01 p.m. to 10:00 p.m. Overnight hours had the fewest reported injury crashes.
+
+**Source:** DataSF Open Data Portal, *Traffic Crashes Resulting in Injury* dataset. Original data compiled from the San Francisco Police Department (SFPD), California Highway Patrol (CHP), San Francisco Department of Public Health (SFDPH), and TransBASE.
 
 ## Ending Summary
 
