@@ -58,7 +58,7 @@ For the final visualizations, I focused on two questions:
 
 **Source:** DataSF Open Data Portal, *Traffic Crashes Resulting in Injury* dataset. Original data compiled from the San Francisco Police Department (SFPD), California Highway Patrol (CHP), San Francisco Department of Public Health (SFDPH), and TransBASE.
 
-## Ending Summary
+## Ending Summary, Methods & Limitations
 
 This data calculates the total number of injury crashes in each of the categories. This does not assess the probability of a crash for any given driver, pedestrian, cyclist, or trip.
 
